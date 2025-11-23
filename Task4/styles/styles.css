@@ -1,0 +1,54 @@
+/* ===== Global Styles ===== */
+body {
+  margin: 0;
+  padding: 40px 0;
+  background: #d7e6f4; /* Light blue background color */
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* ===== Heading Styles ===== */
+h1 {
+  color: #1e3e68; /* Dark blue text color */
+  margin-bottom: 30px;
+}
+
+/* ===== Product Card Styles ===== */
+.product {
+  background: #e3eff9; /* Slightly lighter background than body */
+  width: 350px;
+  padding: 30px 20px;
+  margin: 0 auto;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+/* ===== Product Image Styles ===== */
+.productImage {
+  display: block;
+  margin: 0 auto 20px;
+  width: 250px;
+  height: auto;
+  border-radius: 6px;
+}
+
+/* ===== Product Author Styles ===== */
+.productAuthor {
+  font-weight: bold;
+  color: #1e3e68; /* Dark blue text color */
+  margin-bottom: 10px;
+}
+
+/* ===== Product Name Styles ===== */
+.productName {
+  color: #333; /* Neutral dark gray text */
+  font-size: 14px;
+  padding: 0 10px;
+}
+
+/* ===== Footer Styles ===== */
+footer {
+  margin-top: 20px;
+  color: #1e3e68; /* Dark blue text color */
+  font-size: 14px;
+}
